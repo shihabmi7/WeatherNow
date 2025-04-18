@@ -14,6 +14,7 @@ It displays the current weather based on the city name entered by the user and u
 - 💉 Dependency Injection with Hilt
 - 🌐 Network communication with Retrofit + OkHttp Logger
 - ☁️ OpenWeatherMap API Integration
+- Have intention to add weather forecast for next 7 days [ Later ]
 
 --- 
 
@@ -42,3 +43,8 @@ It displays the current weather based on the city name entered by the user and u
    ```bash
    git clone https://github.com/your-username/weathernow.git
    cd weathernow
+---
+
+## Pull Request
+
+Any pull request are welcome. 
