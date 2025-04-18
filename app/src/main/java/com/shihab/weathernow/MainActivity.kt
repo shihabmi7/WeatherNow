@@ -81,7 +81,7 @@ fun WeatherScreenContent(
     onCitySubmit: (String) -> Unit,
 ) {
     var city by remember { mutableStateOf("") }
-    val keyboardController = LocalSoftwareKeyboardController.current // 👈
+    val keyboardController = LocalSoftwareKeyboardController.current
 
     Column(
         modifier = Modifier

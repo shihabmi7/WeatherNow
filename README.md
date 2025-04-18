@@ -15,6 +15,13 @@ It displays the current weather based on the city name entered by the user and u
 - 🌐 Network communication with Retrofit + OkHttp Logger
 - ☁️ OpenWeatherMap API Integration
 
+--- 
+
+## 📸 Screenshot
+
+<img src="screenshots/Screenshot_20250418_183411.png" alt="WeatherNow Screenshot" width="300" />
+
+
 ---
 
 ## 🛠️ Tech Stack
